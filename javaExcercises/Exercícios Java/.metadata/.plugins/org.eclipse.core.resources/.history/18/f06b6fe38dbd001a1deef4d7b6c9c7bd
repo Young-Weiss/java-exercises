@@ -1,0 +1,9 @@
+
+public class ProdutoCarrinho {
+	
+	public int id;
+	public String nome;
+	public int quantidade;
+	public double valorUnitario;
+	
+}
